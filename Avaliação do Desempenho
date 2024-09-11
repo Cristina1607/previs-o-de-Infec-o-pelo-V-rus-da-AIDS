@@ -1,0 +1,5 @@
+Usamos as seguintes métricas para avaliar o modelo:
+- Acurácia: Mediu o quão bem o modelo conseguiu prever corretamente se o paciente está infectado.
+- Sensibilidade (Recall): A capacidade do modelo de identificar corretamente os pacientes infectados.
+- Precisão: Quantidade de previsões corretas entre todas as previsões de infecção.
+- F1-Score: A média harmônica da precisão e sensibilidade.
