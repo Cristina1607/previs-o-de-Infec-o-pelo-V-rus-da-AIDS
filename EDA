@@ -1,0 +1,3 @@
+A análise dos dados revelou algumas características importantes:
+- Valores nulos: Algumas colunas continham valores ausentes que foram preenchidos com a mediana.
+- Distribuição de variáveis: Variáveis contínuas como idade, peso, e contagem de células CD4/CD8 mostraram uma ampla gama de valores.
