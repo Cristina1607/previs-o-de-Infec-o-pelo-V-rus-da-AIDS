@@ -1,0 +1,4 @@
+O pré-processamento incluiu as seguintes etapas:
+1. Tratamento de valores ausentes: Substituímos valores nulos pela mediana das respectivas colunas.
+2. Codificação de variáveis categóricas: Usamos one-hot encoding para variáveis como gênero e raça.
+3. Normalização de dados: As variáveis contínuas foram normalizadas para melhorar o desempenho do modelo.
