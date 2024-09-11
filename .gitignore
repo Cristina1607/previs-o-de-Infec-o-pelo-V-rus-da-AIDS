@@ -1,0 +1,13 @@
+# Ignore arquivos de cache
+__pycache__/
+*.pyc
+
+# Ignore arquivos CSV de dados locais
+*.csv
+
+# Ignore ambientes virtuais
+env/
+venv/
+
+# Ignore arquivos de sistema
+.DS_Store
