@@ -1,0 +1,1 @@
+Escolhemos o Random Forest Classifier por sua eficácia em problemas de classificação binária, especialmente em dados com variáveis categóricas e contínuas. Ele é robusto contra overfitting e oferece bons resultados com pouca necessidade de ajuste fino.
